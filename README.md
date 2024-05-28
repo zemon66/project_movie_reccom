@@ -5,10 +5,12 @@ This is a simple movie recommendation web application built using Streamlit, a p
 Features:
 
 Movie Selection: Users can search for a movie from a dataset of movies.
-Recommendation: After selecting a movie, the app generates a list of recommended movies based on similarity scores calculated using content-based filtering.
-Interactive User Interface: The application has an intuitive and user-friendly interface, making it easy for users to discover new movies.
-How to Use:
 
+Recommendation: After selecting a movie, the app generates a list of recommended movies based on similarity scores calculated using content-based filtering.
+
+Interactive User Interface: The application has an intuitive and user-friendly interface, making it easy for users to discover new movies.
+
+How to Use:
 Select a movie from the dropdown list.
 Click the "Recommend" button to view a list of recommended movies similar to your selection.
 Data Sources:
